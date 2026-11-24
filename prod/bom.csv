@@ -1,0 +1,13 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet,MANUFACTURER,MPN
+"C1,C2",2,X7R 22u,,,,Capacitor_SMD:C_0805_2012Metric,,Robu.in,R233496
+"C3,C4,C5,C9,C11",5,10u,,,,Capacitor_SMD:C_0402_1005Metric,,PCBPower,GPC0402106-6.3
+"C6,C7,C10,C12",4,100n,,,,Capacitor_SMD:C_0402_1005Metric,,PCBPower,GPC0402104-50
+C8,1,1u,,,,Capacitor_SMD:C_0402_1005Metric,,PCBPower,GPC0402105-16
+D2,1,BAT60A,,,,Diode_SMD:D_SOD-323,https://www.infineon.com/dgdl/Infineon-BAT60ASERIES-DS-v01_01-en.pdf?fileId=db3a304313d846880113def70c9304a9,Robu.in,R242988
+L1,1,2.2uH,,,,Inductor_SMD:L_Sunlord_SWPA4030S,,Robu.in,R114044
+R1,1,100,,,,Resistor_SMD:R_0402_1005Metric,,Robu.in,R241093
+R2,1,2.2k,,,,Resistor_SMD:R_0402_1005Metric,,PCBPower,GPR04022K2
+R4,1,37k,,,,Resistor_SMD:R_0402_1005Metric,,Robu.in,R133843
+R5,1,10k,,,,Resistor_SMD:R_0402_1005Metric,,PCBPower,GPR040210K
+U2,1,BQ24030RHLR,,,,stuff:IC_MSP430FR2522IRHLR,http://www.ti.com/lit/gpn/bq24030,Robu.in,1086441
+U3,1,TPS63001,,,,Package_SON:Texas_DRC0010J_ThermalVias,http://www.ti.com/lit/ds/symlink/tps63000.pdf,Mouser, 595-TPS63001DRCT
